@@ -22,12 +22,12 @@ O código está estruturado em três funções, cada uma responsável por imprim
 Para executar o programa, siga estas etapas:
 
 1. Certifique-se de ter o Python instalado em sua máquina.
-2. Copie o código para um arquivo com a extensão `.py`, por exemplo, `andares_hotel.py`.
+2. Copie o código para um arquivo com a extensão `.py`, por exemplo, `imprime_andares.py`.
 3. Abra um terminal e navegue até o diretório onde o arquivo está salvo.
 4. Execute o programa usando o comando:
 
    ```bash
-   python andares_hotel.py
+   python imprime_andares.py
    ```
 
 ## Contribuições

@@ -5,11 +5,10 @@
 2. [Como Usar](#como-usar)
 3. [Exemplo de Saída Esperada](#exemplo-de-saída-esperada)
 4. [Pré-Requisitos](#pré-requisitos)
-5. [Contato e Network](#contato-e-network)
-6. [Contribua](#contribua)
+5. [Contato e Network](##contatos-e-network)
+6. [Contribua](#Contribua)
 7. [Licença](#licença)
 
----
 
 ## Descrição
 
@@ -21,7 +20,6 @@ Este repositório contém um código simples em Python que tem como objetivo imp
 
 Esse exercício serve como estudo para o entendimento de laços de repetição e suas diferenças em Python.
 
----
 
 ## Como Usar
 
@@ -45,7 +43,6 @@ Para utilizar o script, siga as instruções abaixo:
 4. **Informe o número do andar**:
    O script está configurado para imprimir os andares a partir do andar 21, mas você pode alterar o valor diretamente na variável `andar` dentro da função `main()`.
 
----
 
 ## Exemplo de Saída Esperada
 
@@ -119,7 +116,6 @@ Usando laço for:
 1
 ```
 
----
 
 ## Pré-Requisitos
 
@@ -133,7 +129,6 @@ Para executar o script, você precisará de:
   
 Não há dependências adicionais ou bibliotecas externas necessárias para o funcionamento do script.
 
----
 
 ## Contribuições
 

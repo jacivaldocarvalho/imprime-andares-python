@@ -5,8 +5,8 @@
 2. [Como Usar](#como-usar)
 3. [Exemplo de Saída Esperada](#exemplo-de-saída-esperada)
 4. [Pré-Requisitos](#pré-requisitos)
-5. [Contato e Network](##contatos-e-network)
-6. [Contribua](#Contribua)
+5. [Contato e Network](#contatos-e-network)
+6. [Contribua](#contribuições)
 7. [Licença](#licença)
 
 
